@@ -26,8 +26,14 @@
 
 - V1 of this has some additional features and integrations I've thought of, stay tuned here! 
 
-*** Considerations for future***
+***** Considerations for future (API Related)*****
 - I did find that while using the new POST API for /Track that it was a bit inconsistent. The documentation was not super clear in that I was having a hard time finding how to configure within Postman in a way that it would work appropriatly. (thanks, Mike!)
 - POST for /Track example within the API docs wasn't very clear. It would be good to clarify on those. 
 - The SDKs could use a bit more from an example perspective, I feel that once I figured out some of it, it was much easier to keep building on. However, having more examples and 'use cases' would be extremely helpful for a first timer. 
 
+****Application Updates for the future****
+- **Secure** structure for API_KEYS and Tokens
+- Run a check on whether or not a list has been created first
+  - further a connection to a flow based on criteria surrounding that area so more targeted outreach can be done.
+  - This may include an outside integration with something like Twilio, to automate adding a user to a list
+- {This may be a separate app, but could be implemented here} Ability to send out a campaign immediately (subscription based service emails) if a user opts into a subscription service.
