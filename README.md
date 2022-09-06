@@ -21,5 +21,7 @@
 ![Screen Shot 2022-09-06 at 10 27 54 AM](https://user-images.githubusercontent.com/33046318/188661981-06a9907a-d867-4dad-800c-b304be188387.png)
 - This shows the different flows where the verbiage will be different; also, if they are a new customer they will get an additional email for $10 off, leaving a review! 
 
+![Screen Shot 2022-09-06 at 10 27 59 AM](https://user-images.githubusercontent.com/33046318/188662358-d1f617f6-956a-4221-9ddb-eb14491d4de4.png)
+
 
 - V1 of this has some additional features and integrations I've thought of, stay tuned here! 
