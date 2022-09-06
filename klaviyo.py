@@ -1,6 +1,6 @@
 from klaviyo_sdk import Client
 
-client = Client( "pk_d8e46abcf322eb61dcf2c2181fe5e6ebb3", max_delay=60, max_retries=3)
+client = Client( "[API_KEY]", max_delay=60, max_retries=3)
 # This is example variable data that would be passed through; region data.
 myState= "Vermont"
 # Mock data from purchasing an IV, gathering these details will help route an appropriate Flow
