@@ -25,3 +25,9 @@
 
 
 - V1 of this has some additional features and integrations I've thought of, stay tuned here! 
+
+*** Considerations for future***
+- I did find that while using the new POST API for /Track that it was a bit inconsistent. The documentation was not super clear in that I was having a hard time finding how to configure within Postman in a way that it would work appropriatly. (thanks, Mike!)
+- POST for /Track example within the API docs wasn't very clear. It would be good to clarify on those. 
+- The SDKs could use a bit more from an example perspective, I feel that once I figured out some of it, it was much easier to keep building on. However, having more examples and 'use cases' would be extremely helpful for a first timer. 
+
