@@ -5,7 +5,7 @@ client = Client( "[API_KEY]", max_delay=60, max_retries=3)
 myState= "Vermont"
 # Mock data from purchasing an IV, gathering these details will help route an appropriate Flow
 data={
-  "token": "SCQAHx",
+  "token": "[API_KEY]",
   "event": "Bought Reboot IV",
   "customer_properties": {
     "$email": "mike@mikefeelsgood.com",
